@@ -2,7 +2,7 @@
 
 steps to run.
 
-git clone 
+git clone https://github.com/rprashanth/TestApp.git
 
 cd Test
 
